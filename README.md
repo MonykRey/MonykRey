@@ -1,4 +1,7 @@
 <h1 align="center">Helloo 🐙, Thereeeee </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&width=435&lines=Genomics+Sciences+Student;Bioinformatics+Enthusiast;Microorganism+Lover+🦠"/>
+</p>
 
 My name is Mónica (Moni), I'm currently a genomics sciences undergraduate student interested in the diversity of microorganisms 🧬🦠 <br>
 
