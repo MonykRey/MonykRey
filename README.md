@@ -1,13 +1,18 @@
-<h1 align="center">Helloo 🐙, I'm Mónica</h1>
+<h1 align="center">Helloo 🐙, I'm Mónica (Moni) </h1>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MonykRey/MonykRey/main/%20-2.gif" width="300"/>
+<p align="center">
+  I'm currently a genomics sciences undergraduate student interested in the diversity of microorganisms 🧬🦠 <br>
+  I also love learning about animals and their environments. <br>
+  I'm in the process of becoming a good bioinformatician and I'm currently doing a bioinformatic analysis of bacteria!
+</p>
 
+<p align="center">
+  📫 You can find me at: <strong>mreyesramirez2005@gmail.com</strong>
+</p>
 
-- 🔭 I’m currently working on **detection of BGCs in Thiotrichales**
-
-- 📫 How to reach me **mreyesramirez2005@gmail.com**
-
-- ⚡ Fun fact **I like to read too much**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MonykRey/MonykRey/main/%20-2.gif" width="300"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
