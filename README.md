@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mónica</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h1 align="center">Helloo 🐙, I'm Mónica</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monykrey" alt="monykrey" /></a> </p>
 
