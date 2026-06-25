@@ -1,4 +1,4 @@
-<h1 align="center">Helloo 🐙, Thereeeee </h1>
+<h1 align="center">Helloo thereeeee 🐙 </h1>
 
 ## About me :honeybee:: 
 
