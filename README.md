@@ -1,9 +1,8 @@
 <h1 align="center">Helloo 🐙, Thereeeee </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&width=435&lines=I'm Mónica+(Moni)🦠"/>
-</p>
 
- I'm currently a genomics sciences undergraduate student interested in the diversity of microorganisms 🧬🦠 <br>
+# Personal information :honeybee:: 
+
+I'm Mónica (Moni), I'm currently a genomics sciences undergraduate student interested in the diversity of microorganisms 🧬🦠 <br>
 
 I also love learning about animals and their environments. <br>
 
@@ -18,7 +17,6 @@ I'm in the process of becoming a good bioinformatician and I'm currently doing a
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 
 
 <p align="center">
