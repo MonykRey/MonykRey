@@ -7,7 +7,7 @@
 💻 I'm in the process of becoming a good bioinformatician and I'm currently doing a bioinformatic analysis of bacteria! 
 
 
-🦒 A little more about me: monykrey.github.io/
+🦒 A little more about me: [monykrey](https://monykrey.github.io)
 
 
 ## Social :globe_with_meridians: :
