@@ -1,8 +1,7 @@
 <h1 align="center">Helloo 🐙, I'm Mónica</h1>
 
-<img src="-2.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/MonykRey/MonykRey/main/%20-2.gif" width="300"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monykrey" alt="monykrey" /></a> </p>
 
 - 🔭 I’m currently working on **detection of BGCs in Thiotrichales**
 
