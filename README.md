@@ -6,7 +6,17 @@ I also love learning about animals and their environments. <br>
 
 I'm in the process of becoming a good bioinformatician and I'm currently doing a bioinformatic analysis of bacteria! 
 
-📫 You can find me at: **mreyesramirez2005@gmail.com**
+# Social:
+ <a href="https://instagram.com/mony_rey_1.0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+ <a href="mailto:mreyesramirez2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MonykRey/MonykRey/main/%20-2.gif" width="300"/>
