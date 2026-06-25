@@ -1,6 +1,6 @@
 <h1 align="center">Helloo 🐙, I'm Mónica</h1>
 
-<img src="https://raw.githubusercontent.com/MonykRey/MonykRey/main/%20-2.gif" width="300"/>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MonykRey/MonykRey/main/%20-2.gif" width="300"/>
 
 
 - 🔭 I’m currently working on **detection of BGCs in Thiotrichales**
