@@ -2,11 +2,11 @@
 
 ## About me :honeybee:: 
 
-🧬 **I'm Mónica (Moni), I'm currently a genomics sciences undergraduate student interested in the diversity of microorganisms** 🦠 <br>
+🧬 I'm Mónica (Moni), I'm currently a genomics sciences undergraduate student interested in the diversity of microorganisms🦠 <br>
 
-🐘 **I also love learning about animals and their environments.** <br>
+🐘 I also love learning about animals and their environments. <br>
 
-💻 **I'm in the process of becoming a good bioinformatician and I'm currently doing a bioinformatic analysis of bacteria!** 
+💻 I'm in the process of becoming a good bioinformatician and I'm currently doing a bioinformatic analysis of bacteria! 
 
 # Social :globe_with_meridians: :
  <a href="https://instagram.com/mony_rey_1.0">
